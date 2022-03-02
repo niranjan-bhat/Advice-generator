@@ -12,9 +12,9 @@ body {
 }
 
 .card {
-  width: 25em;
+  width: 22em;
   height: auto;
-  margin: 3em 1.2em;
+  margin: 3em 0em;
   background-color: hsl(217, 19%, 24%);
   border-radius: 10px;
   padding-bottom: 2em;
@@ -48,7 +48,7 @@ body {
 .image-container img {
   place-items: center;
   padding: 2em;
-  width: 20em;
+  width: 18em;
   height: auto;
 }
 
@@ -56,7 +56,7 @@ body {
   position: absolute;
   width: 3em;
   bottom: -1.5em;
-  left: 11em;
+  left: 9.5em;
   height: 3em;
   border-radius: 50%;
   background-color: hsl(150, 100%, 66%);
